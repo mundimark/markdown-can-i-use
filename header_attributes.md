@@ -1,5 +1,7 @@
 # Extension: Header Attributes
 
+tags: headings, ids
+
 Headers can be assigned attributes using this syntax 
 at the end of the line containing the header text:
 
