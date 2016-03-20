@@ -1,0 +1,21 @@
+###
+#  todo:
+#   use   boolean yes/no or true/false
+#   what key to use for field - use use or caniuse or can or ??
+#
+#  allow extension with more keys/fields e.g. url, notes, etc.
+
+auto_identifiers:
+  use: yes
+  notes: ?  
+
+blank_before_heading:
+  use: yes
+  url: ?  
+
+escaped_line_breaks:
+  use: yes
+  
+heading_attributes:
+  use: yes
+
