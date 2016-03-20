@@ -1,8 +1,8 @@
-# Extensions: Blank Before Header
+# Extensions: Blank Line Before Heading
 
 tags: headings, whitespace
 
-Classic Markdown syntax does not require a blank line before a header. 
+Classic markdown syntax does not require a blank line before a heading. 
 The reason for the requirement is that it is all too easy for a # to end up at the beginning of a line by accident 
 (perhaps through line wrapping). Consider, for example:
 
