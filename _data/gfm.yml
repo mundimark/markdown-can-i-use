@@ -1,0 +1,16 @@
+###
+# GitHub Flavored Markdown
+
+auto_identifiers:
+  use: ?
+  notes: ?  
+
+blank_before_heading:
+  use: ?
+  url: ?  
+
+escaped_line_breaks:
+  use: ?
+  
+heading_attributes:
+  use: ?
