@@ -1,5 +1,7 @@
 # Extentension: Escaped Line Breaks
 
+tags: paragraphs
+
 A backslash followed by a newline is also a hard line break.
 
 [Add Example Here]
