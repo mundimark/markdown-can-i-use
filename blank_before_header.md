@@ -1,5 +1,7 @@
 # Extensions: Blank Before Header
 
+tags: headings
+
 Classic Markdown syntax does not require a blank line before a header. 
 The reason for the requirement is that it is all too easy for a # to end up at the beginning of a line by accident 
 (perhaps through line wrapping). Consider, for example:
