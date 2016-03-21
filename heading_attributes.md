@@ -23,12 +23,12 @@ My other heading   {#foo}
 ----------------
 ```
 
-## Converter compatibility
+
+## Converter Compatibility
 
 <table id="compat">
-  <tr><td>Pandoc</td><td>Yes</td></tr>
-  <tr><td>kramdown</td><td>Yes</td></tr>
-  <tr><td>GitHub-Flavored Markdown (GFM)</td><td>x</td></tr>
-  <tr><td>CommonMark</td><td>x</td></tr>
+  <tr><td>Pandoc</td> <td>kramdown</td> <td>GitHub-Flavored Markdown (GFM)</td> <td>CommonMark</td></tr>
+  <tr><td>Yes</td> <td>Yes</td> <td>x</td> <td>x</td></tr>
 </table>
+
 
