@@ -22,3 +22,13 @@ Thus, for example, the following headings will all be assigned the identifier fo
 My other heading   {#foo}
 ----------------
 ```
+
+## Converter compatibility
+
+<table>
+  <tr><td>Pandoc</td><td>Yes</td></tr>
+  <tr><td>kramdown</td><td>Yes</td></tr>
+  <tr><td>GitHub-Flavored Markdown (GFM)</td><td>x</td></tr>
+  <tr><td>CommonMark</td><td>x</td></tr>
+</table>
+
