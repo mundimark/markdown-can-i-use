@@ -7,15 +7,15 @@
 
 auto_identifiers:
   use: yes
-  notes: ?  
+  notes: ~ 
 
 blank_before_heading:
   use: yes
-  url: ?  
+  url: ~
 
 escaped_line_breaks:
   use: yes
-  
+
 heading_attributes:
   use: yes
 

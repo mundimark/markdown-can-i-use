@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Markdown Can I use ___ ?
 
 ## Paragraphs

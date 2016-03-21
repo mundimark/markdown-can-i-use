@@ -2,15 +2,15 @@
 # GitHub Flavored Markdown
 
 auto_identifiers:
-  use: ?
-  notes: ?  
+  use: ~
+  notes: ~  
 
 blank_before_heading:
-  use: ?
-  url: ?  
+  use: ~
+  url: ~  
 
 escaped_line_breaks:
-  use: ?
+  use: ~
   
 heading_attributes:
-  use: ?
+  use: ~

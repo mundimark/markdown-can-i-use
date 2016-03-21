@@ -1,4 +1,7 @@
-# Extension: Heading Attributes
+---
+layout: page
+title: Heading Attributes
+---
 
 tags: headings, ids
 
