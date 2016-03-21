@@ -131,3 +131,31 @@ pre {
   margin-left:  auto;
   margin-right: auto;
 }
+
+
+/////////////////////////////////
+// Header & Footer
+
+#header {
+//  color:  black; //#515151;
+  font-weight: bold;
+  border-bottom: 1px solid black;  //  #515151;
+  margin-bottom: 30px;
+}
+
+#header a {
+  color: black; // #515151;
+  font-weight: bold;
+}
+
+#header a:hover,
+#header a:focus {
+  text-decoration: none;
+}
+
+
+
+#footer {
+    text-align: center;
+    font-size: 80%;
+}
