@@ -25,7 +25,7 @@ My other heading   {#foo}
 
 ## Converter compatibility
 
-<table>
+<table id="compat">
   <tr><td>Pandoc</td><td>Yes</td></tr>
   <tr><td>kramdown</td><td>Yes</td></tr>
   <tr><td>GitHub-Flavored Markdown (GFM)</td><td>x</td></tr>
