@@ -16,14 +16,16 @@ Note: in multiline and grid table cells, this is the only way to create a hard l
 ## Converter Compatibility
 
 <table id="compat">
-  <tr><td>Pandoc -</td>
-      <td>kramdown -</td>
-      <td>GitHub Flavored Markdown (GFM) -</td>
-      <td>CommonMark</td></tr>
+  <tr><td>Pandoc</td>
+      <td>kramdown</td>
+      <td>CommonMark (Basic)</td>
+      <td>GitHub Flavored Markdown (GFM)</td>
+      </tr>
   <tr><td class="yes">Yes</td>
       <td class="no">x</td>
+      <td class="yes">Yes</td>
       <td class="no">x</td>
-      <td class="yes">Yes</td></tr>
+      </tr>
 </table>
 
 
