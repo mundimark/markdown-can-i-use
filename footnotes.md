@@ -1,4 +1,8 @@
-# Extensions: Footnotes
+---
+layout: page
+title:  Footnotes
+---
+
 
 Markdown allows footnotes, using the following syntax:
 

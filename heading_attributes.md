@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heading Attributes
+title:  Heading Attributes
 ---
 
 tags: headings, ids

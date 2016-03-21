@@ -1,4 +1,7 @@
-# Auto Identifiers
+---
+layout: page
+title:  Auto Identifiers
+---
 
 tags: headings, ids
 
@@ -21,4 +24,6 @@ Header identifiers in HTML   |	`header-identifiers-in-html`
 `*Dogs*?--in *my* house?`    |	`dogs--in-my-house`
 `[HTML], [S5], or [RTF]?`    |  `html-s5-or-rtf`
 `3. Applications`            |  `applications`
-`33`	                       |  `section`
+`33`	                     |  `section`
+
+

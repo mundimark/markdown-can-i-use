@@ -1,4 +1,7 @@
-# Extensions: Blank Line Before Heading
+---
+layout: page
+title:  Blank Line Before Heading
+---
 
 tags: headings, whitespace
 

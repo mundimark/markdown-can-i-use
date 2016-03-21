@@ -1,4 +1,8 @@
-# Extentension: Escaped Line Breaks
+---
+layout: page
+title:  Escaped Line Breaks
+---
+
 
 tags: paragraphs, whitespace
 

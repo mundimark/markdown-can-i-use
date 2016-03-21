@@ -1,4 +1,8 @@
-# Extension: Inline Notes
+---
+layout: page
+title:  Inline Notes
+---
+
 
 Inline footnotes are also allowed (though, unlike regular notes, they cannot contain multiple paragraphs). 
 The syntax is as follows:

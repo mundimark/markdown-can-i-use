@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Markdown Can I use ___ ?
+# Markdown Can I use \_\_\_ ?
+
+<!-- check: escaping of underline \_ required or just use triple ___?
+  -->
 
 ## Paragraphs
 
@@ -13,6 +16,11 @@ layout: default
 - [Blank Line Before Heading](blank_before_heading)
 - [Heading Attributes](heading_attributes)
 - [Auto Identifiers](auto_identifiers)
+
+## More
+
+- [Footnotes](footnotes)
+- [Inline Notes](inline_notes)
 
 ...
 
