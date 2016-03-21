@@ -156,11 +156,19 @@ pre {
 
 
 table#compat {
-    font-size: 70%;
+    font-size: 80%;
+    
+    .yes {
+      background-color: green;
+      color: white; }
+    .no {
+      background-color: red;
+      color: white; }
 }
 
 
 #footer {
+    margin-top: 20px;
     text-align: center;
     font-size: 70%;
 }

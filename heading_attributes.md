@@ -27,8 +27,15 @@ My other heading   {#foo}
 ## Converter Compatibility
 
 <table id="compat">
-  <tr><td>Pandoc</td> <td>kramdown</td> <td>GitHub-Flavored Markdown (GFM)</td> <td>CommonMark</td></tr>
-  <tr><td>Yes</td> <td>Yes</td> <td>x</td> <td>x</td></tr>
+  <tr><td>Pandoc - </td>
+      <td>kramdown - </td>
+      <td>CommonMark - </td>
+      <td>GitHub Flavored Markdown (GFM)</td>
+      </tr>
+  <tr><td class="yes">Yes</td>
+      <td class="yes">Yes</td>
+      <td class="no">x</td>
+      <td class="no">x</td></tr>
 </table>
 
 
